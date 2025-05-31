@@ -33,20 +33,4 @@ Based on the SR, we define severity thresholds as follows:
   [Download ZIP](https://talkbank.org/fluency/derived/TimeStamped.zip)
 - **LibriStutter**:  
   [GitHub Repository](https://github.com/hhzhang16/LibriStutterData.git)
-
----
-
-## 🛠️ Technologies
-
-- Python (3.8+)
-- Pandas / NumPy
-- Custom parsing scripts for transcription and event tagging
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/stuttering-severity-labels.git
-cd stuttering-severity-labels
+  
