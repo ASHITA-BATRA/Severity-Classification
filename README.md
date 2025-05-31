@@ -28,7 +28,6 @@ Based on the SR, we define severity thresholds as follows:
 
 ## 📂 Datasets Used
 
-- **AS-70 Dataset** (primary source for severity computation)
 - **FluencyBank Time Stamped**:  
   [Download ZIP](https://talkbank.org/fluency/derived/TimeStamped.zip)
 - **LibriStutter**:  
