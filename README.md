@@ -6,7 +6,7 @@ This repository contains documentation related to assigning **stuttering severit
 
 ## 📌 Description
 
-We use the **AS-70** dataset to assign stuttering severity labels (Mild, Moderate, Severe) to each speaker. The severity labeling helps in downstream tasks such as speech recognition robustness evaluation, fluency analysis, and personalized therapy applications.
+We use the **AS-70** paper to assign stuttering severity labels (Mild, Moderate, Severe) to each audio. The severity labeling helps in downstream tasks such as speech recognition robustness evaluation, fluency analysis, and personalized therapy applications.
 
 ---
 
