@@ -1,6 +1,6 @@
 # Dataset with Stuttering Severity Labels
 
-This repository contains documentation related to assigning **stuttering severity labels** to speakers using the **AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection**. Severity thresholds were determined based on the stuttering rate (SR) calculated from the dataset.
+This repository contains documentation related to assigning **stuttering severity labels** to audio using the **AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection**. Severity thresholds were determined based on the stuttering rate (SR) calculated from the dataset.
 
 ---
 
